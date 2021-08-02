@@ -1,0 +1,31 @@
+body {
+    background-color: lightskyblue;
+}
+.nav {
+    background-color: white;
+    border: thin solid lightgray;
+}
+#button {
+    background-color: rgb(42, 100, 167);
+    padding: 5px;
+    color: white
+}
+.signup {
+    border: thin solid lightgray;
+    border-radius: 5px;
+    background-color: white;
+    position: fixed;
+    top: 15%;
+    left: 40%;
+    margin: 0px;
+    padding: 40px;
+}
+.input {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: left;
+}
+.submit {
+    background-color: rgb(42, 100, 167);
+    text-align: center;
+}
